@@ -16,7 +16,7 @@ In this project, I will demonstrate how to create new users in bulk in Microsoft
 
 -----
 
-## To Create Users in Bulk
+## Create Users in Bulk
 
 1. Browse to **Users** > **Bulk Create**:
 <img src="https://github.com/user-attachments/assets/24276bdb-0703-4c0c-b669-f08646af3601" alt="Screenshot 2025-06-30 200138" width="600" />
