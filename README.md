@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/bd4c09fd-cab4-4834-a7af-3e10c62309f3" alt="Screenshot 2025-07-03 211806" width="300" />
 </p>
 
-# Entra ID Bulk User Creation
+# Microsoft Entra ID Bulk User Creation
 
 ## Platform and Tools Used
 
