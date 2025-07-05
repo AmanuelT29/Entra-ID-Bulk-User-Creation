@@ -29,7 +29,7 @@ In this project, I will demonstrate how to create new users in bulk in Microsoft
 
 <img src="https://github.com/user-attachments/assets/4285aa60-dfc1-4d7b-ac29-ac831f2ebf97" alt="Screenshot 2025-06-30 200946" width="650" />
 
-4. I followed the format in the template provided.To create new users, I added the required user information: **Name, User Principal Name, Initial Password, and Block Sign-In (Yes/No)**. Then saved the file:
+4. I followed the format in the template provided. To create new users, I added the required user information: **Name, User Principal Name, Initial Password, and Block Sign-In (Yes/No)**. Then saved the file:
 
 <img src="https://github.com/user-attachments/assets/7cc6a93d-6b74-4be4-a6ca-7a4683671b3f" alt="Screenshot 2025-06-30 203944" width="650" />
 
